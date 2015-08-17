@@ -7,7 +7,8 @@
 
 1、功能
 ----
-        通过微信公共账号（以后会添加来往、易信等）发送图片。采用three.js显示3D照片墙，共有4中样式分别如下
+通过微信公共账号（以后会添加来往、易信等）发送图片。采用three.js显示3D照片墙，共有4中样式分别如下
+
 ####1.1 照片墙
 ![table](http://www.pper.com.cn/img/table.gif)
 ####1.2 水晶球
@@ -32,7 +33,7 @@
 3、安装
 ----
 ####3.1 下载源代码解压
-https://github.com/liuhill/kper.git
+https://github.com/liuhill/kper2.git
 >###清注意
 当前项目正在开发测试中，完整功能版请移步PHP版本https://github.com/liuhill/i-Pper
 
