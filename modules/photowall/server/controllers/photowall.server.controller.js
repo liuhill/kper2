@@ -7,6 +7,16 @@ var mongoose = require('mongoose'),
     _ = require('lodash');
 
 /**
+*@hillock
+*index
+**/
+exports.renderIndex = function(req, res) {
+  res.render('modules/photowall/server/views/index', {
+		user: null
+	});
+};
+
+/**
  * Create a Photowall
  */
 exports.create = function(req, res) {
